@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E06C4AC1-54B8-466D-9D39-2BCDA5FC7A5B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75AFE442-D0DE-469F-BC3C-5B9CE6C9E516"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "UserListInteractor"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "75AFE442-D0DE-469F-BC3C-5B9CE6C9E516 - 54f4539fd511d40c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListInteractor.deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "75AFE442-D0DE-469F-BC3C-5B9CE6C9E516 - 2367cb0ac69bfab1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListInteractor.__deallocating_deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "75AFE442-D0DE-469F-BC3C-5B9CE6C9E516 - ae284c2950d222e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListInteractor.__allocating_init() -&gt; UserListViper.UserListInteractor"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "75AFE442-D0DE-469F-BC3C-5B9CE6C9E516 - 76cd30bbf38b691c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListInteractor.init() -&gt; UserListViper.UserListInteractor"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB3B24BD-3BAF-45E6-8DA1-E8129E1E3654"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "UserListPresenter"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FB3B24BD-3BAF-45E6-8DA1-E8129E1E3654 - a7d6c400b237e9be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListPresenter.deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FB3B24BD-3BAF-45E6-8DA1-E8129E1E3654 - 24c77397e11f300b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListPresenter.__deallocating_deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FB3B24BD-3BAF-45E6-8DA1-E8129E1E3654 - 73aed5fde01b497e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListPresenter.__allocating_init() -&gt; UserListViper.UserListPresenter"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "FB3B24BD-3BAF-45E6-8DA1-E8129E1E3654 - 6aeb53170e725bcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListPresenter.init() -&gt; UserListViper.UserListPresenter"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB2C210B-6654-43E4-806C-A414B5125A87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "UserListView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BB2C210B-6654-43E4-806C-A414B5125A87 - cdf169f488498f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UserListViper.UserListView"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "BB2C210B-6654-43E4-806C-A414B5125A87 - 89223d7b34703691"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UserListViper.UserListView"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "BB2C210B-6654-43E4-806C-A414B5125A87 - fab0fa18bd81b926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UserListViper.UserListView&gt;"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "BB2C210B-6654-43E4-806C-A414B5125A87 - fbcc57f952868268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UserListViper.UserListView&gt;"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "BB2C210B-6654-43E4-806C-A414B5125A87 - 39a82b7611a6b7a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.__deallocating_deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1694A14F-5C18-4D01-B386-78FAB9D83718"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "UserListConfigurator"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1694A14F-5C18-4D01-B386-78FAB9D83718 - 2f8217702f46a2fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListConfigurator.deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListConfigurator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1694A14F-5C18-4D01-B386-78FAB9D83718 - c0d50d3e8c18c209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListConfigurator.__deallocating_deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListConfigurator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1694A14F-5C18-4D01-B386-78FAB9D83718 - 8eac72ba359bcd22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListConfigurator.__allocating_init() -&gt; UserListViper.UserListConfigurator"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListConfigurator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1694A14F-5C18-4D01-B386-78FAB9D83718 - 2d4e951646526724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListConfigurator.init() -&gt; UserListViper.UserListConfigurator"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListConfigurator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48EBA290-FE64-44E9-BBD9-0011429F4A9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4502F2E4-8726-4E23-9BFA-17AF2E016C1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "didRetrieveUser(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CC3EA35-D953-4F3A-ADA2-E1AC42CFC59D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "UserListRouter"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8CC3EA35-D953-4F3A-ADA2-E1AC42CFC59D - 4fe7204e6c416001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListRouter.deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8CC3EA35-D953-4F3A-ADA2-E1AC42CFC59D - afeca18fdf2ba7cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListRouter.__deallocating_deinit"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8CC3EA35-D953-4F3A-ADA2-E1AC42CFC59D - 50238ea2bc62647f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListRouter.__allocating_init() -&gt; UserListViper.UserListRouter"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "8CC3EA35-D953-4F3A-ADA2-E1AC42CFC59D - 49e262ee79eefb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListRouter.init() -&gt; UserListViper.UserListRouter"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18F463FD-C811-4B39-A3A8-A21667C62838"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "navigateToUserDetail(from:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D626DA6C-1C76-449D-9B3E-1C20096102D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "didSelectUser(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D626DA6C-1C76-449D-9B3E-1C20096102D6 - 9302935627cfeaad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListPresenter.didSelectUser(at: Swift.Int) -&gt; ()"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "D626DA6C-1C76-449D-9B3E-1C20096102D6 - 9302935627cfeaad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListPresenter.didSelectUser(at: Swift.Int) -&gt; ()"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BCF06EB-BC96-4BCE-8035-38C44D3309E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListViper/Modules/UserList/UserListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BCF06EB-BC96-4BCE-8035-38C44D3309E7 - e89b3be3e0a99495"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "5BCF06EB-BC96-4BCE-8035-38C44D3309E7 - e89b3be3e0a99495"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListViper.UserListView.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "UserListViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maakdeniz/Desktop/ios_complate/UserListViper/UserListViper/Modules/UserList/UserListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
