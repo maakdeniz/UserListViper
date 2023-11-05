@@ -8,5 +8,5 @@
 import Foundation
 
 class UserListEntity: UserListEntityProtocol {
-    // ... diğer entity kodları
+    
 }

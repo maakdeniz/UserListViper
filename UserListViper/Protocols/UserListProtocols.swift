@@ -37,6 +37,6 @@ protocol UserListRouterProtocol: AnyObject {
 }
 
 protocol UserListEntityProtocol: AnyObject {
-    // ... diğer entity methodları
+    
 }
 

@@ -8,5 +8,5 @@
 import Foundation
 
 class UserDetailRouter: UserDetailRouterProtocol {
-    // ... diğer router kodları
+    
 }

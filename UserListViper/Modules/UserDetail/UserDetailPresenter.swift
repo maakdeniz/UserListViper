@@ -11,5 +11,5 @@ class UserDetailPresenter: UserDetailPresenterProtocol {
     weak var view: UserDetailViewProtocol?
     var router: UserDetailRouterProtocol?
     var user: User?
-    // ... diğer presenter kodları
+    
 }
